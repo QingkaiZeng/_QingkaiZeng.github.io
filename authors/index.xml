@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Academic</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a Ph.D. student at University of Notre Dame advised by Professor &lt;a href=&#34;http://www.meng-jiang.com/&#34;&gt;Meng Jiang&lt;/a&gt;. Perviously, I received a Bachelor in Electrical &amp;amp; Computer Engineering at Sun Yat-sen University and a MEng in &lt;a href=&#34;https://ece.illinois.edu/&#34;&gt;Electrical &amp;amp; Computer Engineering&lt;/a&gt; at University of Illinois at Urbana-Champaign.&lt;/p&gt;
+&lt;p&gt;My research interest lies in deep models for scientific information extraction.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
