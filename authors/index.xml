@@ -2,24 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Qingkai Zeng</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://QingkaiZeng.github.io/authors/</link>
+      <atom:link href="https://QingkaiZeng.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://QingkaiZeng.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://QingkaiZeng.github.io/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <link>https://QingkaiZeng.github.io/authors/admin/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://QingkaiZeng.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a Ph.D. student at University of Notre Dame advised by Professor &lt;a href=&#34;http://www.meng-jiang.com/&#34;&gt;Meng Jiang&lt;/a&gt;. Perviously, I received a Bachelor in Electrical &amp;amp; Computer Engineering at Sun Yat-sen University and a MEng in &lt;a href=&#34;https://ece.illinois.edu/&#34;&gt;Electrical &amp;amp; Computer Engineering&lt;/a&gt; at University of Illinois at Urbana-Champaign.&lt;/p&gt;
 &lt;p&gt;My research interest lies in deep models for scientific information extraction.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Jinjun Xiong</title>
+      <link>https://QingkaiZeng.github.io/authors/jinjun-xiong/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://QingkaiZeng.github.io/authors/jinjun-xiong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meng Jiang</title>
+      <link>https://QingkaiZeng.github.io/authors/meng-jiang/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://QingkaiZeng.github.io/authors/meng-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mengxia Yu</title>
+      <link>https://QingkaiZeng.github.io/authors/mengxia-yu/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://QingkaiZeng.github.io/authors/mengxia-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenhao Yu</title>
+      <link>https://QingkaiZeng.github.io/authors/wenhao-yu/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://QingkaiZeng.github.io/authors/wenhao-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yiyu Shi</title>
+      <link>https://QingkaiZeng.github.io/authors/yiyu-shi/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://QingkaiZeng.github.io/authors/yiyu-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liang Cai</title>
+      <link>https://QingkaiZeng.github.io/authors/liang-cai/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://QingkaiZeng.github.io/authors/liang-cai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tianwen Jiang</title>
+      <link>https://QingkaiZeng.github.io/authors/tianwen-jiang/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://QingkaiZeng.github.io/authors/tianwen-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yihong Ma</title>
+      <link>https://QingkaiZeng.github.io/authors/yihong-ma/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://QingkaiZeng.github.io/authors/yihong-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zongze Li</title>
+      <link>https://QingkaiZeng.github.io/authors/zongze-li/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://QingkaiZeng.github.io/authors/zongze-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daheng Wang</title>
+      <link>https://QingkaiZeng.github.io/authors/daheng-wang/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://QingkaiZeng.github.io/authors/daheng-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitesh V. Chawla</title>
+      <link>https://QingkaiZeng.github.io/authors/nitesh-v.-chawla/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://QingkaiZeng.github.io/authors/nitesh-v.-chawla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tong Zhao</title>
+      <link>https://QingkaiZeng.github.io/authors/tong-zhao/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://QingkaiZeng.github.io/authors/tong-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xueying Wang</title>
+      <link>https://QingkaiZeng.github.io/authors/xueying-wang/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://QingkaiZeng.github.io/authors/xueying-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zachary Eberhart</title>
+      <link>https://QingkaiZeng.github.io/authors/zachary-eberhart/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://QingkaiZeng.github.io/authors/zachary-eberhart/</guid>
+      <description></description>
     </item>
     
   </channel>
